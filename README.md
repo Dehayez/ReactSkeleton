@@ -3,14 +3,11 @@
 ## Installation
 
 ### `npm i react`
-### `npm install jsonwebtoken`
-### `npm install react-router-dom --save`
-
 
 ## Production
 ### `yarn start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 
 ### `yarn build`
 
